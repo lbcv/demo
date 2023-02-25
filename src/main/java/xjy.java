@@ -41,6 +41,7 @@ public class xjy {
             }
             System.out.println("second");
             System.out.println("third");
+            System.out.println("hot");
         }
 
         public static void main(String[] args) {
