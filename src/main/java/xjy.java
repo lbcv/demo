@@ -39,6 +39,7 @@ public class xjy {
                 // 然后再交换回去，数组还原，保证下一次不会有重复交换。
                 swap(arr,i,p);
             }
+            System.out.println("second");
         }
 
         public static void main(String[] args) {
