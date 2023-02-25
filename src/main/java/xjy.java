@@ -44,6 +44,7 @@ public class xjy {
             System.out.println("hot");
             System.out.println("master-test");
             System.out.println("hot-test");
+            System.out.println("hot2");
             System.out.println("master2");
         }
 
