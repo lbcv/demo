@@ -40,6 +40,7 @@ public class xjy {
                 swap(arr,i,p);
             }
             System.out.println("second");
+            System.out.println("third");
         }
 
         public static void main(String[] args) {
