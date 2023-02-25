@@ -47,6 +47,7 @@ public class xjy {
             System.out.println("hot2");
             System.out.println("master2");
             System.out.println("master3");
+            System.out.println("master4");
         }
 
         public static void main(String[] args) {
