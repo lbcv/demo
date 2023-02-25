@@ -43,6 +43,7 @@ public class xjy {
             System.out.println("third");
             System.out.println("hot");
             System.out.println("master-test");
+            System.out.println("hot-test");
         }
 
         public static void main(String[] args) {
